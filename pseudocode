@@ -1,0 +1,43 @@
+Setup
+Switch 1 (3 position) to 2 pins
+Switch 2 (3 position) to 2 pins
+Switch 3 (3 position) to 2 pins
+Switch 4 (3 position) to 2 pins
+Switch 5 (3 position) to 2 pins
+Switch 6 (3 position) to 2 pins
+Switch 7 (2 position) to 1 pin
+Switch 8 (2 position) to 1 pin
+Gimbal 1 to 2 analog pins
+Gimbal 2 to 2 analog pins
+Trim Switch 1 to port
+Trim Switch 2 to port
+Trim Switch 3 to port
+Trim Switch 4 to port
+LCD to 1 pin rx
+Button 1 to 1 pin
+Button 2 to 1 pin
+Button 3 to 1 pin
+Button 4 to 1 pin
+Encoder 1 to 3 pins
+Setup comms to robot
+Loop
+Switch 1 inputs position sends data to robot
+Switch 2 inputs position sends data to robot
+Switch 3 inputs position sends data to robot
+Switch 4 inputs position sends data to robot
+Switch 5 inputs position sends data to robot
+Switch 6 inputs position sends data to robot
+Switch 7 inputs position sends data to robot
+Switch 8 inputs position sends data to robot
+Gimbal 1 collects positions from encoders, translates position to percentages, then sends data to robot
+Gimbal 2 collects positions from encoders, translates position to percentages, then sends data to robot
+Trim switch 1 modifies percentage values
+Trim switch 2 modifies percentage values
+Trim switch 3 modifies percentage values
+Trim switch 4 modifies percentage values
+LCD displays information from robot plus trim adjustment
+Button 1 and button 2 will navigate through menus
+Button 3 will be used as shortcut key
+Button 4 will be used to select
+Encoder 1 shows position and gives values to menu
+
